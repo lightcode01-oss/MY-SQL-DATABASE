@@ -1,6 +1,6 @@
 create database library;
 use library;
-create table books(
+create table books(wo
 book_id int primary key,
 book_name varchar(150),
 author_name varchar(75),
